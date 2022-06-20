@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "newscatcheR"]
+	path = newscatcheR
+	url = https://github.com/discindo/newscatcher
+	shallow = true
+	registered = true
